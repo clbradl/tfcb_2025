@@ -10,6 +10,8 @@ Make a GitHub account and populate your bio by including your research interests
 
 _Include the link to your GitHub profile here._
 
+https://github.com/clbradl
+
 ## Problem 2
 
 **15 points**
@@ -46,6 +48,8 @@ Now you should be able to push any further changes to your repository.
 
 _Include the link to your `tfcb-homework01` GitHub repository here._
 
+https://github.com/clbradl/tfcb-homework01
+
 ## Problem 4
 
 **15 points**
@@ -55,6 +59,8 @@ This question assesses your ability to organize files and directories associated
 Organize files into a more consistent structure. Group images into a `images/` directory. Separate source code and data. Rename files to remove spaces and improve consistency. Commit changes and publish to your public GitHub repository.
 
 _Include the link to your `tfcb-homework01` GitHub repository here._
+
+https://github.com/clbradl/tfcb-homework01
 
 ## Problem 5
 
@@ -67,6 +73,8 @@ Create a file called `README.md` and populate with Markdown. Demonstrate headers
 Commit this file and publish to your public GitHub repository.
 
 _Include the link to your `README.md` here._
+
+https://github.com/clbradl/tfcb-homework01/blob/main/README.md
 
 ## Problem 6
 
@@ -81,3 +89,5 @@ Export this as a tab-delimited `.csv` text file with Unix line endings.
 Commit the modified `.xlsx` file and the `.csv` file and publish to your public GitHub repository.
 
 _Include the link to your `.csv` file on GitHub here._
+
+https://github.com/clbradl/tfcb-homework01/blob/main/data/survey_data.csv
